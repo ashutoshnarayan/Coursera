@@ -17,3 +17,7 @@ pong_game.py is a classical pong game played between two players. First player u
 
 ricerocks.py is a spaceship game. A spaceship fires missile to asteriods and prevent itself from collision with asteroids. Arrow keys are used to move the spaceship and space bar is used to fire a missile.
 
+Note:
+The games runs from a browser. Use Google Chrome for better performance.
+Eg: If you want to run pong_game.py, then it can be executed as mentioned below -
+Fire up http://www.codeskulptor.org/#pong_game.py
