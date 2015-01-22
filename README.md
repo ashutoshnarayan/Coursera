@@ -20,4 +20,4 @@ ricerocks.py is a spaceship game. A spaceship fires missile to asteriods and pre
 Note:
 The games runs from a browser. Use Google Chrome for better performance.
 Eg: If you want to run pong_game.py, then it can be executed as mentioned below -
-Checkout the code, goto http://www.codeskulptor.org, you will find a upload local button, click on it and upload pong_game.py to the console. Click the play button on the left side of the console.
+Checkout the code, goto http://www.codeskulptor.org, you will find a Open local button, click on it and upload pong_game.py to the console. Click the play button on the left side of the console.
